@@ -44,9 +44,9 @@ Capable of building sleek, interactive Power BI dashboards with DAX measures, ca
 
 ## 📬 Contact Me
  
-- 🌐 [LinkedIn](https://www.linkedin.com/)
+- 🌐 [LinkedIn](www.linkedin.com/in/bafticakir)
 - 📁 [My Portfolio](#)
-- 📧 your.email@example.com
+- 📧 bafticakir@hotmail.com
  
 ---
 **Thanks for stopping by!** 🚀
