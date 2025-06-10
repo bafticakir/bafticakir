@@ -33,3 +33,20 @@ Basic experience with Azure services including Azure SQL, storage, and cloud-bas
 ### 🐍 Python  
 <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" />  
 Beginner to intermediate Python skills for data manipulation using `pandas`, `numpy`, and creating small automation scripts in Jupyter and Google Colab.
+
+---
+ 
+### 📈 Power BI  
+<img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" />  
+Capable of building sleek, interactive Power BI dashboards with DAX measures, calculated columns, and report-level filters for insightful business reporting.
+ 
+---
+
+## 📬 Contact Me
+ 
+- 🌐 [LinkedIn](https://www.linkedin.com/)
+- 📁 [My Portfolio](#)
+- 📧 your.email@example.com
+ 
+---
+**Thanks for stopping by!** 🚀
